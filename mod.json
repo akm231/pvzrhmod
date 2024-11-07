@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "IBDM",
+      "version": "1.0.0",
+      "description": "开发者卡片",
+      "download_url": "https://raw.githubusercontent.com/akm231/pvzrhmod/main/IBDM.zip"
+    },
+    {
+      "name": "modMenu",
+      "version": "1.0.0",
+      "description": "mod菜单",
+      "download_url": "https://raw.githubusercontent.com/akm231/pvzrhmod/main/modMenu.zip"
+    }
+  ]
+}
